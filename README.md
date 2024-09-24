@@ -140,8 +140,8 @@
       <a href="LICENSE" style="color: #3498db; text-decoration: none"
         >MIT License</a
       >.
-    </p><footer id="connect" style="margin-top: 40px; color: #333">
-      <h2 style="color: #333">💳 Connect With Me -</h2>
+    </p><footer  style="margin-top: 40px; color: #333">
+      <h2 id="connect" style="color: #333">💳 Connect With Me -</h2>
       <a
         href="https://www.instagram.com/leocodes7"
         target="_blank"
