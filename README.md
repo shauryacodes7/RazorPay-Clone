@@ -57,12 +57,17 @@
           >License</a
         >
       </li>
+       <li style="padding: 8px 0">
+        <a href="#connect" style="color: #3498db; text-decoration: none"
+          >Connect With Me</a
+        >
+      </li>
     </ul>
     <h2 id="demo" style="color: #333">🚀 Demo</h2>
     <p style="color: #333">
       You can view the live version of this project
       <a
-        href="https://your-live-demo-link.com"
+        href="#"
         style="color: #3498db; text-decoration: none"
         >here</a
       >.
@@ -135,42 +140,49 @@
       <a href="LICENSE" style="color: #3498db; text-decoration: none"
         >MIT License</a
       >.
-    </p>
-    <footer style="margin-top: 40px; text-align: center; color: #333">
-      <p>Connect with me:</p>
+    </p><footer id="connect" style="margin-top: 40px; color: #333">
+      <h2 style="color: #333">💳 Connect With Me -</h2>
       <a
         href="https://www.instagram.com/leocodes7"
         target="_blank"
-        style="margin: 0 10px"
+        style="margin: 0 20px; display: inline-block"
         ><img
           src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
           alt="Instagram"
-          width="30px" /></a
-      ><a
+          width="30px"
+          style="vertical-align: middle"
+      /></a>
+      <a
         href="https://x.com/shauryacodes7"
         target="_blank"
-        style="margin: 0 10px"
+        style="margin: 0 20px; display: inline-block"
         ><img
           src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
           alt="X"
-          width="30px" /></a
-      ><a
+          width="30px"
+          style="vertical-align: middle"
+      /></a>
+      <a
         href="https://www.linkedin.com/in/shauryacodes7/"
         target="_blank"
-        style="margin: 0 10px"
+        style="margin: 0 20px; display: inline-block"
         ><img
           src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
           alt="LinkedIn"
-          width="30px" /></a
-      ><a
+          width="30px"
+          style="vertical-align: middle"
+      /></a>
+      <a
         href="https://github.com/shauryacodes7"
         target="_blank"
-        style="margin: 0 10px"
+        style="margin: 0 20px; display: inline-block"
         ><img
           src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
           alt="GitHub"
           width="30px"
+          style="vertical-align: middle"
       /></a>
     </footer>
+
   </body>
 </html>
